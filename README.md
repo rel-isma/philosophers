@@ -45,4 +45,4 @@ To run the program, execute the generated executable with the required arguments
 If you have any questions, suggestions, or feedback, please feel free to reach out to me.
 
 - Email: relismaiyly@gmail.com
-- GitHub: https://github.com/rel-isma/philosophers/new/master?readme=1
+- GitHub: https://github.com/rel-isma/
